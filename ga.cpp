@@ -1,6 +1,8 @@
 // ga.cpp : Defines the entry point for the console application.
 //
 
+// Visual Studio 2008
+
 #include "stdafx.h"
 #include <cassert>
 #include <stdlib.h>
